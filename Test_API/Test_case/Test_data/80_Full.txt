@@ -1,0 +1,24 @@
+POST http://localhost:8080/j_acegi_security_check HTTP/1.1
+Accept: text/html, application/xhtml+xml, */*
+Referer: http://localhost:8080/login?from=%2F
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Connection: Keep-Alive
+Content-Length: 313
+DNT: 1
+Host: localhost:8080
+Pragma: no-cache
+Cookie: JSESSIONID.9ab6704c=node01x3rx6vvwnb961kin94s2vedpf4.node0
+
+j_username=hll&j_password=111111&from=%2F&Jenkins-Crumb=d8f207fd53abcd5233aa524a4d21fa7b&json=%7B%22j_username%22%3A+%22hll%22%2C+%22j_password%22%3A+%22111111%22%2C+%22remember_me%22%3A+false%2C+%22from%22%3A+%22%2F%22%2C+%22Jenkins-Crumb%22%3A+%22d8f207fd53abcd5233aa524a4d21fa7b%22%7D&Submit=%E7%99%BB%E5%BD%95
+HTTP/1.1 302 Found
+Date: Wed, 20 Jun 2018 03:29:47 GMT
+X-Content-Type-Options: nosniff
+Set-Cookie: JSESSIONID.9ab6704c=node01uhx2yhinj49ogaxtrvyi5lfx5.node0;Path=/;HttpOnly
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Location: http://localhost:8080/
+Content-Length: 0
+Server: Jetty(9.4.z-SNAPSHOT)
+

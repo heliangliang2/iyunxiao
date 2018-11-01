@@ -1,0 +1,4 @@
+[2018-08-17 14:49:30,276] - logger.py[line:27] - fuc:__console- INFO: ---用户开始登录---
+[2018-08-17 14:49:30,424] - logger.py[line:27] - fuc:__console- INFO: ---输入用户名---
+[2018-08-17 14:49:30,504] - logger.py[line:27] - fuc:__console- INFO: ---输入密码---
+[2018-08-17 14:49:30,597] - logger.py[line:27] - fuc:__console- INFO: ---点击登录---

@@ -1,0 +1,3 @@
+[2018-08-17 14:52:31,069] - logger.py[line:27] - fuc:__console- INFO: ---测试用例开始---
+[2018-08-17 14:52:31,085] - logger.py[line:27] - fuc:__console- INFO: ---用户登录测试---
+[2018-08-17 14:52:34,564] - logger.py[line:27] - fuc:__console- INFO: ---修改白名单---

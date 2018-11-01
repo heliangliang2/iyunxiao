@@ -1,0 +1,17 @@
+b"<?xml version='1.0' encoding='GBK'?>\n
+<rows>\
+n<num>4</num>\
+<msg>0</msg>\
+n<row0
+    eth0,\xce\xde\xc5\xe4\xd6\xc3,\xc6\xf4\xd3\xc3,100 Mbps,100 Mbps,0.0.0.0,0.0.0.0,0.0.0.0,14150242,1098MB,471,566,139,6KB,0,0,12,1KBps,0,0Bps
+</row0>\n
+<row1>
+    eth1,\xbe\xb2\xcc\xac\xc5\xe4\xd6\xc3,\xc6\xf4\xd3\xc3,100 Mbps,100 Mbps,172.18.21.156,255.255.224.0,0.0.0.0,14273839,1132MB,299,316,160614,121MB,0,0,13,1KBps,1,362Bps
+</row1>\n
+<row2>
+    eth2,\xbe\xb2\xcc\xac\xc5\xe4\xd6\xc3,\xc6\xf4\xd3\xc3,100 Mbps,100 Mbps,1.1.1.4,255.255.224.0,0.0.0.0,14154791,1098MB,689,1122,5747,235KB,0,0,12,1KBps,0,0Bps
+</row2>\n
+<row3>
+    eth3,\xce\xde\xc5\xe4\xd6\xc3,\xc6\xf4\xd3\xc3,1000 Mbps,1000 Mbps,0.0.0.0,0.0.0.0,0.0.0.0,14155975,1152MB,0,0,1022,3MB,0,0,12,1KBps,0,0Bps
+</row3>\
+n</rows>\n"
